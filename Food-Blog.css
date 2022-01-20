@@ -1,0 +1,161 @@
+body{
+    font-family:"poppins", sans-serif;
+    font-weight: bold;
+    margin: 0px;
+}
+h1{
+    font-size: 35px;
+}
+
+.display{
+    display: flex;
+    margin-bottom: 10px;
+}
+
+span{
+    color: orange;
+    
+}
+.top-page{
+    width: 50%;
+    padding: 4%
+}
+.top-page img{
+    width:80%;
+}
+
+.Button {
+    text-decoration: none;
+    padding: 10px 40px;
+    color: white;
+    background-image: linear-gradient(#f12711, #f5af19);
+    background-image: linear-gradient( green blue );
+    border-radius: 30px;
+    margin-top: 20%
+}
+.middle-page{
+    width: 50%;
+   padding: 4%;
+
+   
+    
+}
+.middle-page img{
+    width: 55%;
+   padding-left: 16%;
+  
+}
+
+
+.second-page{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    width: 100%;
+    height: 500px;
+    margin: 0%;
+}
+
+.Button1{
+    text-decoration: none;
+    padding: 10px 40px;
+    color: saddlebrown;
+    background-image: linear-gradient(#51dfdf, #50aa05);
+    border-radius: 30px;
+    margin-top: 100%
+   
+}
+
+.recipes{
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 50px;
+    margin-top: 20px;
+}
+
+
+
+.title-menu{
+    width: 100%;
+    display: flex;
+    margin: 0;
+   
+    padding: 40px;
+    
+}
+
+.title-menu img {
+    width: 100%;
+    margin: 0;
+}
+
+#picture3 img{
+
+    width: 100%;
+    border-radius: 5%;
+    height: 244px;
+
+    
+
+}
+
+.section{
+    box-shadow: 0px 0px 20px gray;
+    border-radius: 30px;
+    margin-right: 20px;
+    margin-left: 20px;
+   
+    margin-bottom: 70px;
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 2px;
+    width:25%
+    
+
+}
+
+.follower{
+  
+   display: flex;
+  
+   margin-right: 160px;
+   margin-left: 90px;
+   margin-bottom: 70px;
+  
+  width: 80%;
+   box-shadow:  0px 0px 20px  gray;
+  padding-right: 100px;
+  border-radius: 10px;
+  padding-bottom: 10px;
+ 
+  
+  
+   
+  
+
+
+}
+
+.section1{
+
+  
+    
+    margin-left: 180px;
+    
+      
+}
+
+.end{
+    text-align: center;
+    color: white;
+    background-color: black;
+    height: 250px;
+    padding-top: 8px;
+}
+
+.span{
+    color: indianred;
+}
